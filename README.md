@@ -1,2 +1,2 @@
-# Math399
-#Summer-Intern
+# Summer-Intern
+## Ad-click prediction model
